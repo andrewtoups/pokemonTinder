@@ -83,6 +83,50 @@ var profiles = [
     "<p>I've saved a {baby} from a burning building. I've {skinny dipped} in the {Mediterrean Sea}. I've probably hit on your mom at {Trader Joe's}. I'm looking for someone who will cook me {bagel bites} and let me touch their butt whenever I want. KCCO!</p>",
   ],
   [
+    "<p>Voted \"Sexiest {Man} alive\" by {People} Magazine. (Braille edition)</p>",
+    "<p>{Jimmy Fallon} once broke my coffee table.</p>",
+    "<p>OK, only one of those things is true.</p>",
+    "<p>My only goal here is for a {girl} who is not a HookerBot to swipe right. I don't ask for much in life. Seriously, is anyone on here a real pokemon?</p>",
+    "<p>My only fear is the Unsolved Mysteries theme song.</p>",
+    "<p>Also, I am the best {guy} you are going to meet on your goddamned telephone. If it helps and you're shallow, I am 6'3\"</p>",
+  ],
+  [
+    "<p>I'm 26 I live with my grandparents but hopefully that will change soon</p>",
+  ],
+  [
+    "<p>strong, determined, never backs down, mentally strong, persistent, also never {gives up} when times are tuff and very loving</p>",
+  ],
+  [
+    "<p>So just a friendly head up. While not saying {white} women can't be attractive, I find myself only attracted to women who are {black}. Always has been this way. I'm also tried of games. I'm seeking somebody who wants to {communicate}. A lot. I don't feel like getting to know you, but I have to wait I'm a line because the other {guys} are also need your Attention.</p>",
+  ],
+  [
+    "<p>I like words. Intelligence enthrall's me. Adventure inspires. I'm a kleptomaniac but when my symptoms flair up I can take {something} for it.</p>",
+  ],
+  [
+    "<p>There is a void & I'm looking for someone sweet enough to fill it. Seriously don't know what else to if you have questions ask. I don't know how to message on here because only lets me message when we both like each other so if you do know how to message please tell me.</p>",
+  ],
+  [
+    "<p>Been told I'm emotionally unavailable, whatever that means. So I guess I'm waiting girls to {high five} me or something.</p>",
+  ],
+  [
+    "<p>Military {man} looking to have some fun. Whoever is single and ready to {mingle} I am your {man}. Love to {play sports} big {workout} nerd. Love to improve myself each and every way. Love to drink.</p>",
+  ],
+  [
+    "<p></p>",
+  ],
+  [
+    "<p></p>",
+  ],
+  [
+    "<p></p>",
+  ],
+  [
+    "<p></p>",
+  ],
+  [
+    "<p></p>",
+  ],
+  [
     "<p></p>",
   ],
   [
